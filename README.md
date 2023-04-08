@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HHemeid
+- 👋 Hi, I’m @HHemeid! A Developer, Industrial Mechanic, and a Pentester
 - 👀 I’m interested in creating different programs and software
 - 🌱 I’m currently learning JS and Web development. 
 - 💞️ I’m working on the CCG Angel Bot for Discord
