@@ -150,16 +150,4 @@ Git · GitHub · GitHub Actions · CI/CD · Automated Testing · Technical Docum
 
 ---
 
-## Current Focus
-
-Currently expanding my hands-on experience in:
-
-* Security Operations and SOC workflows
-* Incident investigation and log analysis
-* Vulnerability management and remediation
-* Linux and systems administration
-* Networking and infrastructure
-* Application and API security
-* Cybersecurity lab development
-* Production reliability and monitoring
 
